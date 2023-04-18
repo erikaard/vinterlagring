@@ -1,0 +1,96 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vinterlagring.net" resolutions="1x" timestamp="1604918959205">
+  <folder name="css">
+    <file name="site_global.css" crc="3997105839"/>
+    <file name="index.css" crc="4094897332" ref="index"/>
+    <file name="iefonts_index.css" crc="298555826" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="61824189" ref="phone>index"/>
+    <file name="header-u839-fr.jpg" crc="173288457" ref="phone>index"/>
+    <file name="line.png" crc="257467765" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linewhite.png" crc="3821605443" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bilde2310x233.jpg" crc="458683839" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="bilde3385x231.jpg" crc="324899265" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bilde4310x233.jpg" crc="303048753" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bilde5310x233.jpg" crc="439473295" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bilde6310x233.jpg" crc="4246331953" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bilde7310x233.jpg" crc="85280686" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="vinterlagring logo ps225x74.png" crc="3913650133" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2457-6.png" crc="3819567954" ref="phone>index"/>
+    <file name="header.jpg" crc="6399770" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u903-6.png" crc="415859570" ref="index"/>
+    <file name="vinterlagring logo ps.png" crc="4134257839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2063-4.png" crc="284727783" ref="index"/>
+    <file name="u2074-4.png" crc="4200871742" ref="index"/>
+    <file name="u2077-4.png" crc="189735496" ref="index"/>
+    <file name="home.png" crc="156388154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bilde2.jpg" crc="65960860" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bilde3.jpg" crc="4166611594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bilde4.jpg" crc="3805269373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bilde5.jpg" crc="4684003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bilde6.jpg" crc="64784100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bilde7.jpg" crc="3857336391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3997242508" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="56516295" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="391514589" seo="true" mt="1604918726029" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4266937978" seo="true" mt="1604918923289" redirect="true"/>
+</manifest>
